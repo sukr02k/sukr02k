@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development & Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [abdn.my.id](abdn.my.id)
+- 👨‍💻 All of my projects are available at [here](https://abdn.my.id)
 
 - 📫 How to reach me **abdan.syakuro@students.amikom.ac.id**
 
