@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdan Syakuro</h1>
 <h3 align="center">A Student & also a Web Developer from North Kalimantan, Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I’m currently working on [TVKU Kaltara](https://www.youtube.com/channel/UCCEIuCsPr25pnhhNMQHmrfA)
 
