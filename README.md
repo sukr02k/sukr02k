@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abdan Syakuro</h1>
-<h3 align="center">A Student & also a Web Developer from North Kalimantan, Indonesia</h3>
+<h3 align="center">A Civil Servant & also a Web Developer from North Kalimantan, Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - 🔭 I’m currently working on [TVKU Kaltara](https://www.youtube.com/channel/UCCEIuCsPr25pnhhNMQHmrfA)
 
 - 🌱 I’m currently learning **Web Development & Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [here](https://abdn.my.id)
+- 👨‍💻 All of my projects are available at [here](https://tukangpanggilkapal.my.id)
 
-- 📫 How to reach me **abdan.syakuro@students.amikom.ac.id**
+- 📫 How to reach me **hello@tukangpanggilkapal.my.id**
 
 - ⚡ Fun fact **I extremely Introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdnsykro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdnsykro" height="30" width="40" /></a>
-<a href="https://instagram.com/abdnsykro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdnsykro" height="30" width="40" /></a>
+<a href="https://instagram.com/tukangpanggilkapal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdnsykro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
