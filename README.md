@@ -5,9 +5,9 @@
 ### **Flutter Mobile & Full-Stack Web Developer**
 📍 North Kalimantan, Indonesia
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tukangpanggilkapal.my.id-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tukangpanggilkapal.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ladning.atarispace.my.id-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://landing.atarispace.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdan_Syakuro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdnsykro)
-[![Email](https://img.shields.io/badge/Email-hello%40tukangpanggilkapal.my.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@tukangpanggilkapal.my.id)
+[![Email](https://img.shields.io/badge/Email-kuroninjokuro@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuroninjokuro@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40tukangpanggilkapal-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tukangpanggilkapal)
 
 </div>
