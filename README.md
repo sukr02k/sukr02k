@@ -20,8 +20,8 @@ I am a software developer & civil servant passionate about engineering **reliabl
 
 - 📱 **Mobile Engineering**: Crafting production-grade **Flutter** apps using **Clean Architecture**, **BLoC/Cubit**, **SQLite**, hardware integrations (**Bluetooth ESC/POS Thermal Printers**), and automated **CI/CD**.
 - 🌐 **Web & Backend**: Developing full-stack web applications and RESTful APIs using **Laravel**, **CodeIgniter**, **Vue.js**, and **MySQL**.
-- 🔭 **Currently working on**: Production-ready Flutter portfolio applications & digital media systems at [TVKU Kaltara](https://www.youtube.com/channel/UCCEIuCsPr25pnhhNMQHmrfA).
-- 📫 **Reach me at**: **[hello@tukangpanggilkapal.my.id](mailto:hello@tukangpanggilkapal.my.id)**
+- 🔭 **Currently working on**: Production-ready Flutter portfolio applications & digital media systems at [TVRI Kalimantan Utara](https://www.youtube.com/channel/UCCEIuCsPr25pnhhNMQHmrfA).
+- 📫 **Reach me at**: **[kuroninjokuro@gmail.com](mailto:kuroninjokuro@gmail.com)**
 
 ---
 
