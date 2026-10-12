@@ -5,7 +5,6 @@
 ### **Flutter Mobile & Full-Stack Web Developer**
 📍 North Kalimantan, Indonesia
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Atari_Space-0D9488?style=for-the-badge&logo=google-chrome&logoColor=white)](https://landing.atarispace.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdan_Syakuro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdnsykro)
 [![Email](https://img.shields.io/badge/Email-Abdan_Syakuro-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuroninjokuro@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40abdnsykro-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdnsykro)
