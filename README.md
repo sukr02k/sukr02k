@@ -28,7 +28,7 @@ I am a software developer & civil servant passionate about engineering **reliabl
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **[MotoVault](https://github.com/sukr02k/motovault)** | `Flutter` `BLoC` `SQLite` `ML Kit OCR` | Smart Vehicle & Garage Ledger — 100% offline Flutter app with SQLite, BLoC, Google ML Kit OCR receipt scanner, `fl_chart` analytics, and PDF/CSV reports | [📦 Source Code](https://github.com/sukr02k/motovault) <br> [📲 Download APK (`v1.0.0`)](https://github.com/sukr02k/motovault/releases/latest) |
+| **[MotoVault](https://github.com/sukr02k/motovault)** | `Flutter` `BLoC` `SQLite` `ML Kit OCR` | Smart Vehicle & Garage Ledger — 100% offline Flutter app with SQLite, BLoC, Google ML Kit OCR receipt scanner, `fl_chart` analytics, and PDF/CSV reports | [📦 Source Code](https://github.com/sukr02k/motovault) <br> [📲 Download APK (`v1.2.0`)](https://github.com/sukr02k/motovault/releases/latest) |
 | **[Bersihin — Offline-First Laundry POS](https://github.com/sukr02k/bersihin)** | `Flutter` `Dart` `BLoC/Cubit` `SQLite` `ESC/POS` | Production-grade Point of Sale & cashflow app for laundry SMEs. Features **58mm Bluetooth thermal printing**, **net profit & operational expense analytics**, **4-sheet Excel financial exports**, **order voiding with automatic customer stats rollback**, **WhatsApp digital receipts**, and **SQLite `.db` backup & restore**. | [📦 Source Code](https://github.com/sukr02k/bersihin) <br> [📲 Download APK (`v1.0.0`)](https://github.com/sukr02k/bersihin/releases/latest) |
 
 ---
